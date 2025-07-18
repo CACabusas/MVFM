@@ -1,5 +1,5 @@
 # MVFM
-![alt text](https://github.com/CACabusas/MVFM/blob/main/logo-simple.png?raw=true)
+![alt text](https://github.com/CACabusas/MVFM/blob/main/logo%20simple.png?raw=true)
 A web-based fleet management system prototype made for NPC MinGen
 
 **Notes:**
