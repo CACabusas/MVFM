@@ -438,7 +438,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             <div class="video-section">
                 <div class="video-container">
                     <video autoplay muted loop>
-                        <source src="video-cropped.mp4" type="video/mp4">
+                        <source src="video-cropped-480p.mp4" type="video/mp4"> <!-- The original 1080p video is too big for GitHub, so the video is downscaled to 480p to bypass the issue -->
                     </video>
                 </div>
             </div>
