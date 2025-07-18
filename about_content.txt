@@ -1,0 +1,1 @@
+The MINGEN Vehicle Fleet System (MVFM) is a centralized platform developed for NPC MINGEN to manage and monitor the company's vehicle operations. The system is supervised by the Information System & Technology Division (ISTD).
