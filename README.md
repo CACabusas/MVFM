@@ -175,10 +175,10 @@ The text for the page is editable in the **_Miscellaneous_** page (`misc.php`) o
 14. Contacts filter button<br/>
 15. Contact card<br/>
 16. Edit contact button<br/>
-17. Delete contact button<br/>
-18. Contact name<br/>
+17. Delete contact button
 
 **Add/Edit Contact Modal**<br/>
+18. Contact name<br/>
 19. Contact type (`Driver`, `Supplier`, or `End-User`)<br/>
 20. Contact Number<br/>
 21. Email Address<br/>
