@@ -9,7 +9,7 @@ _Mindanao Generation Vehicle Fleet Management_ (**MVFM**) is a web-based fleet m
 # Walkthrough:
 ## 1. Login
 ![Login](https://github.com/CACabusas/MVFM/blob/main/walkthrough/01_login_1.png?raw=true)
-1. User type selection (`Officer` or `Admin`)<br/>
+1. User type selection (`Transportation Officer` or `System Admin`)<br/>
 2. Password input box<br/>
 3. Log in button<br/>
 4. Forms<br/>
@@ -154,7 +154,7 @@ The text for the page is editable in the **_Miscellaneous_** page (`misc.php`) o
 
 ## 10. Miscellaneous
 > [!IMPORTANT]
-> When logging in as `Admin`, the user will be directed to this page instead of the Dashboard (`dashboard.php`)
+> When logging in as `System Admin`, the user will be directed to this page instead of the Dashboard (`dashboard.php`)
 
 ![Miscellaneous](https://github.com/CACabusas/MVFM/blob/main/walkthrough/23_misc_1.png?raw=true)
 1. Add Form/Policy<br/>
@@ -167,11 +167,11 @@ The text for the page is editable in the **_Miscellaneous_** page (`misc.php`) o
 6. Manage Forms section (to edit/delete existing forms)<br/>
 7. Manage Policies section (to edit/delete existing policies)<br/>
 8. URL form to generate QR code for Feedback in the **_Login_** page (`login.php`)<br/>
-9. [_Admin Only_] Account Type selection (`Officer Account` or `Admin Account`)<br/>
-11. [_Admin Only_] Change Password button
+9. [_System Admin Only_] Account Type selection (`Officer Account` or `Admin Account`)<br/>
+11. [_System Admin Only_] Change Password button
 
 ![Miscellaneous](https://github.com/CACabusas/MVFM/blob/main/walkthrough/24_misc_2.png?raw=true)
-11. [_Admin Only_] Edit About<br/>
+11. [_System Admin Only_] Edit About<br/>
 12. Add Contact button<br/>
 13. Search bar for searching contacts<br/>
 14. Contacts filter button<br/>
