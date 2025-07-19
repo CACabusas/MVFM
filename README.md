@@ -163,8 +163,7 @@ The text for the page is editable in the **_Miscellaneous_** page (`misc.php`) o
 2. Form/Policy Name<br/>
 3. Type (`Form` or `Policy`)<br/>
 4. Source (from local system via `Upload File` or from the internet via `External URL`)<br/>
-5. Save button
-
+5. Save button<br/><br/>
 6. Manage Forms section (to edit/delete existing forms)<br/>
 7. Manage Policies section (to edit/delete existing policies)<br/>
 8. URL form to generate QR code for Feedback in the **_Login_** page (`login.php`)<br/>
