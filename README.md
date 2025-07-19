@@ -3,7 +3,7 @@ _Mindanao Generation Vehicle Fleet Management_ (**MVFM**) is a web-based fleet m
 
 # Notes:
 - The system runs via **XAMPP** (together with Apache and MySQL), so make sure your system has the program installed.
-- A third-party library is used for generating QR codes ([phpqrcode](https://github.com/lasalesi/phpqrcode)), and the library is located in the `/lib` folder. The library is compressed, thus it is not functional. Please do make sure to extract the ZIP file on your PC in the same folder to make the library functional.
+- A third-party library is used for generating QR codes ([phpqrcode](https://github.com/lasalesi/phpqrcode)), and the library is located in the `/lib` folder. The library is compressed, thus it is not functional. Please ensure that you extract the ZIP file to your PC in the same folder to make the library functional.
 - The video for the login page is downscaled from 1080p to 480p to mitigate the issue of GitHub not being able to handle files larger than 25MB. (File name: `video-cropped-480p.mp4`)
 
 # Walkthrough:
@@ -158,10 +158,13 @@ The text for the page is editable in the **_Miscellaneous_** page (`misc.php`) o
 
 ![Miscellaneous](https://github.com/CACabusas/MVFM/blob/main/walkthrough/23_misc_1.png?raw=true)
 1. Add Form/Policy<br/>
-2. [_Add/Edit Form/Policy Modal_] Name<br/>
-3. [_Add/Edit Form/Policy Modal_] Type (`Form` or `Policy`)<br/>
+
+**Add/Edit Form/Policy Modal**<br/>
+2. Form/Policy Name<br/>
+3. Type (`Form` or `Policy`)<br/>
 4. Source (from local system via `Upload File` or from the internet via `External URL`)<br/>
-5. Save button<br/>
+5. Save button
+
 6. Manage Forms section (to edit/delete existing forms)<br/>
 7. Manage Policies section (to edit/delete existing policies)<br/>
 8. URL form to generate QR code for Feedback in the **_Login_** page (`login.php`)<br/>
