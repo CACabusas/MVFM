@@ -48,6 +48,9 @@ The text for the page is editable in the **_Miscellaneous_** page (`misc.php`) o
 8. Driver Availability Calendar
 9. Schedule Drive modal (for adding/editing/deleting a schedule)
 
+![Dashboard](https://github.com/CACabusas/MVFM/blob/main/walkthrough/06_dashboard_2.png?raw=true)
+10. Vehicle Assessment selection grid
+
 ## 5. Vehicle Assessment
 ## 6. Vehicles
 ## 7. Maintenance Reports
