@@ -1033,8 +1033,8 @@ if (isset($_SESSION['error'])) {
                 <form method="POST" style="display: grid; grid-template-columns: 1fr 2fr; gap: 15px; align-items: center;">
                     <label for="account_type">Account Type</label>
                     <select id="account_type" name="account_type" required style="padding: 8px; border: 1px solid #ddd; border-radius: 4px;">
-                        <option value="admin">Admin Account</option>
-                        <option value="officer">Officer Account</option>
+                        <option value="admin">Transportation Admin Account</option>
+                        <option value="officer">System Officer Account</option>
                     </select>
 
                     <label for="current_password">Current Password</label>
