@@ -405,8 +405,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                         <div class="user-type-container">
                             <select class="user-type-select" id="user-type" required>
                                 <option value="" selected disabled>Select user type</option>
-                                <option value="officer">Officer</option>
-                                <option value="admin">Admin</option>
+                                <option value="officer">Transportation Officer</option>
+                                <option value="admin">System Admin</option>
                             </select>
                             <label for="user-type" class="user-type-label">User Type</label>
                             <i class='bx bx-chevron-down select-icon'></i>
