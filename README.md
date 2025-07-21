@@ -168,7 +168,7 @@ The text for the page is editable in the **_Miscellaneous_** page (`misc.php`) o
 7. Manage Policies section (to edit/delete existing policies)<br/>
 8. URL form to generate QR code for Feedback in the **_Login_** page (`login.php`)<br/>
 9. [_System Admin Only_] Account Type selection (`Transportation Officer Account` or `System Admin Account`)<br/>
-11. [_System Admin Only_] Change Password button
+10. [_System Admin Only_] Change Password button
 
 ![Miscellaneous](https://github.com/CACabusas/MVFM/blob/main/walkthrough/24_misc_2.png?raw=true)
 11. [_System Admin Only_] Edit About<br/>
