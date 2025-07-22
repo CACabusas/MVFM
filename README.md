@@ -1,12 +1,22 @@
 ![System Logo](https://github.com/CACabusas/MVFM/blob/main/logo%20simple.png?raw=true)
 _Mindanao Generation Vehicle Fleet Management_ (**MVFM**) is a web-based fleet management system **prototype** made for **National Power Corporation - Mindanao Generation**
 
-# Notes:
-- The system runs via [**XAMPP**](https://www.apachefriends.org/download.html) (together with Apache and MySQL), so make sure your system has the program installed.
-- A third-party library is used for generating QR codes ([phpqrcode](https://github.com/lasalesi/phpqrcode)), and the library is located in the `/lib` folder. The library is compressed, thus it is not functional. Please ensure that you extract the ZIP file to your PC in the same folder to make the library functional.
-- The video for the login page is downscaled from 1080p to 480p to mitigate the issue of GitHub not being able to handle files larger than 25MB. (File name: `video-cropped-480p.mp4`)
+# Prerequisites:
+To run the system, the following **_must_** be installed in your PC:
+1. [**XAMPP**](https://www.apachefriends.org/download.html)
+   - Together with **Apache** and **MySQL**
+2. [phpqrcode](https://github.com/lasalesi/phpqrcode)
+   - A ZIP folder is already included in the `/lib` folder of the repository, so just extract it in the same folder to install it.
+
+> [!IMPORTANT]
+> - The libraries for generating the graphs are just fetched online. So if your system is not connected to the internet, the graph may not show up. To mitigate the issue, you can download the libraries, add it in the `/lib` folder, then import it especially in `dashboard.php` and `assessment.php`.
+
+> [!NOTE]
+> - The video for the login page is downscaled from 1080p to 480p to mitigate the issue of GitHub not being able to handle files larger than 25MB. (File name: `video-cropped-480p.mp4`)
 
 # Walkthrough:
+This section will briefly showcase the list of features/functionalities each page has.
+
 ## 1. Login
 ![Login](https://github.com/CACabusas/MVFM/blob/main/walkthrough/01_login_1.png?raw=true)
 1. User type selection (`Transportation Officer` or `System Admin`)<br/>
