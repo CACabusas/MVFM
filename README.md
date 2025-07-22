@@ -3,7 +3,7 @@ _Mindanao Generation Vehicle Fleet Management_ (**MVFM**) is a web-based fleet m
 
 # Prerequisites:
 To run the system, the following **_must_** be installed in your PC:
-1. [**XAMPP**](https://www.apachefriends.org/download.html)
+1. [XAMPP](https://www.apachefriends.org/download.html)
    - Together with **Apache** and **MySQL**
 2. [phpqrcode](https://github.com/lasalesi/phpqrcode)
    - A ZIP folder is already included in the `/lib` folder of the repository, so just extract it in the same folder to install it.
