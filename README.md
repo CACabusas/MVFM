@@ -9,7 +9,7 @@ To run the system, the following **_must_** be installed in your PC:
    - A ZIP archive is already included in the `/lib` folder of the repository, so just extract it in the same folder to install it.
 
 > [!IMPORTANT]
-> - The libraries for generating the graphs are just fetched online. So if your system is not connected to the internet, the graph may not show up. To mitigate the issue, you can download the libraries, add it in the `/lib` folder, then import it especially in `dashboard.php` and `assessment.php`.
+> - There are libraries that are just fetched online, so if your system is not connected to the internet, some features may not show up. To mitigate the issue, you can download the libraries, add it in the `/lib` folder, then import it especially in `dashboard.php` and `assessment.php`.
 
 > [!NOTE]
 > - The video for the login page is downscaled from 1080p to 480p to mitigate the issue of GitHub not being able to handle files larger than 25MB. (File name: `video-cropped-480p.mp4`)
