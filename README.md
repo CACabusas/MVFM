@@ -2,7 +2,7 @@
 _Mindanao Generation Vehicle Fleet Management_ (**MVFM**) is a web-based fleet management system **prototype** made for **National Power Corporation - Mindanao Generation**
 
 # Prerequisites:
-To run the system, the following **_must_** be installed in your PC:
+To run the prototype, the following **_must_** be installed in your system:
 1. [XAMPP](https://www.apachefriends.org/download.html)
    - Together with **Apache** and **MySQL**
 2. [phpqrcode](https://github.com/lasalesi/phpqrcode)
