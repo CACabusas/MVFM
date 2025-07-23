@@ -1,5 +1,5 @@
 ![System Logo](https://github.com/CACabusas/MVFM/blob/main/logo%20simple.png?raw=true)
-_Mindanao Generation Vehicle Fleet Management_ (**MVFM**) is a web-based fleet management system **prototype** made for **National Power Corporation - Mindanao Generation**
+_Mindanao Generation Vehicle Fleet Management_ (**MVFM**) is a web-based fleet management system **prototype** made for **National Power Corporation - Mindanao Generation**.
 
 # Prerequisites:
 To run the prototype, the following **_must_** be installed in your system:
@@ -197,3 +197,13 @@ The text for the page is editable in the **_Miscellaneous_** page (`misc.php`) o
 22. Upload photo for the Contact (optional)<br/>
 23. Save contact<br/>
 24. Cancel button
+
+# Credits:
+**System Designer / Project Leader**
+- Princess Jane Fatima C. Longcob<br/>
+
+**UI/UX Designer**
+- Christine Jay F. Fuentes<br/>
+
+**Fullstack Developer**
+- Carl Axel C. Cabusas
