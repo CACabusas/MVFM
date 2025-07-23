@@ -14,7 +14,7 @@ To run the prototype, the following **_must_** be installed in your system:
 > [!NOTE]
 > - The video for the login page is downscaled from 1080p to 480p to mitigate the issue of GitHub not being able to handle files larger than 25MB. (File name: `video-cropped-480p.mp4`)
 
-# Walkthrough:
+# System Feature Overview:
 This section will briefly showcase the list of features/functionalities each page has.
 
 ## 1. Login
