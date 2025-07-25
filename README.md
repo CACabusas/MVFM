@@ -110,7 +110,7 @@ The text for the page is editable in the **_Miscellaneous_** page (`misc.php`) o
 6. Repair Shop<br/>
 7. Reference Type (`Purchase Order Number`, `Contract Number`, or `Admin`)<br/>
 8. Description<br/>
-9. Maintenance Type (`Preventive` or `Corrective`)<br/>
+9. Maintenance Type (`Preventive` or `Corrective`; can add more entries with the `+` icon)<br/>
 10. Maintenance Cost<br/>
 11. Save button<br/>
 12. Cancel button
